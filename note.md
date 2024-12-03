@@ -22,3 +22,4 @@ remote
 - git branch {branch name}
 - git branch -d {branch name}
 - git push
+- git push -u origin {branch name}
