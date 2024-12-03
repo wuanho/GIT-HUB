@@ -9,3 +9,5 @@ Repository(Repo)
 - git add
 - git rest
 - git commit
+- git log
+- git log --oneline
