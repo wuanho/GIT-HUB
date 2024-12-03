@@ -23,3 +23,7 @@ remote
 - git branch -d {branch name}
 - git push
 - git push -u origin {branch name}
+- git remove add orgin {repo url}
+- git clone {repo url}
+- git fetch origin
+- git checkout -b {branhc name} origin/{branch name}
