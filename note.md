@@ -11,3 +11,6 @@ Repository(Repo)
 - git commit
 - git log
 - git log --oneline
+- git checkout {branch name}
+- git branch
+- git checkout -p {branch name}
